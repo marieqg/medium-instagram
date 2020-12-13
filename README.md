@@ -25,7 +25,6 @@ This is a tutorial to help you generate an Instagram Token and automatically dep
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-default-starter/
     gatsby develop
     ```
 
