@@ -33,12 +33,6 @@ This is a tutorial to help you generate an Instagram Token and automatically dep
 
     Your site is now running at `http://localhost:8000`!
     
-    
-    The final result should look like this  depending on how many instagram pictures you have:
-     
-     ![LinkedInArticle](https://miro.medium.com/max/1400/1*gA35k2nm4NFpTZkgEE6M5w.png)
-
-
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
 
