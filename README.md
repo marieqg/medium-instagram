@@ -8,6 +8,8 @@ How to automatically display your Instagram feed on your Gatsby.js website?</h1>
 
 [![LinkedInArticle](https://miro.medium.com/max/1400/1*RUMV94N-hdJ0lac3ZDR-rg.jpeg)](https://medium.com/frontend-digest/how-to-automatically-display-your-instagram-feed-on-your-gatsby-js-website-bc5cc324eb9d)
 
+This is a tutorial to help you generate an Instagram Token and automatically deploy your feed to your gatsby.js website thanks to zappier. You can read the all article related to this repository [here](https://medium.com/frontend-digest/how-to-automatically-display-your-instagram-feed-on-your-gatsby-js-website-bc5cc324eb9d).
+
 
 ## 🚀 Quick start
 
